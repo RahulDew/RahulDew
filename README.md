@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 😎 I’m Front-End Web Developer
 - Currently building projects on Web
-
+- 👯 I’m looking to collaborate on web projects 
 <!--
 **RahulDew/RahulDew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
