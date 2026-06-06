@@ -1,6 +1,6 @@
 # Rahul Dewangan
 
-**Full-Stack Engineer** · TypeScript · Angular · NestJS · AWS
+**Full-Stack Software Engineer** · TypeScript · Angular · NestJS · AWS
 
 ---
 
